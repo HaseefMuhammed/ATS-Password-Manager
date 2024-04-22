@@ -1,0 +1,1 @@
+ScrollReveal().reveal('.anm1', { scale: 0.85 });
